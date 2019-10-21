@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: random-number-api
+    
+server:
+  port: 5001
+     
+ 
